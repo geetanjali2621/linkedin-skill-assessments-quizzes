@@ -204,7 +204,7 @@
 
 - [ ] all of these answers
 - [ ] to debug using a different JRE
-- [ ] to customize environment variables
+- [x ] to customize environment variables
 - [ ] to customize arguments
 
 #### Q30. You are searching for code using the Search dialog, and no results appear. What is a likely cause?
